@@ -9,6 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-- (IBAction)buttonPressed:(id)sender;
+- (IBAction)buttonPressed:(UIButton *)sender;
 
 @end
